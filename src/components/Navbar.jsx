@@ -241,7 +241,7 @@ function Navbar() {
         
         <CiSearch className='basis-[5%] hover:scale-110 block duration-200 cursor-pointer lg:hidden text-3xl'/>
           {/* LOGO  */}
-          <div className='basis-[30%] xxs:basis-[15%] xs:basis-[25%] sm:basis-[18%] md:basis-[15%] lg:basis-[10%] flex items-center justify-center'>
+          <div className='basis-[40%] xxs:basis-[15%] xs:basis-[25%] sm:basis-[18%] md:basis-[15%] lg:basis-[10%] flex items-center justify-center'>
           <Link to='/'>  <img className='w-full xs:w-[100%] md:w-[100%] lg:w-full'  src="https://cdn.leatherscin.com/img/leatherscin-logo.webp"
                   alt=""
                    /></Link>
