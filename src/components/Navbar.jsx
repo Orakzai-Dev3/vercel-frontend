@@ -52,6 +52,7 @@ function Navbar() {
         credentials: 'include'
       }).then((res) => {res.json()})
       .then((res) => {
+        
         alert(res.message);
         window.location.reload();
         

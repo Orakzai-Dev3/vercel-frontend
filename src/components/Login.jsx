@@ -1,7 +1,8 @@
 import { useForm } from 'react-hook-form';
-import { Link } from 'react-router-dom';
+import { Link ,useNavigate} from 'react-router-dom';
 
 const Login = () => {
+  const navigate = useNavigate();
   const {
     register,
     handleSubmit,
@@ -17,9 +18,11 @@ const Login = () => {
       },
       credentials:'include',
       body:JSON.stringify(data)
-    }).then((res)=>res.json()).then((res)=>alert(res.message)).catch((err)=>alert(err))
+    }).then((res)=>res.json())
+    .then((res)=>alert(res.message)).catch((err)=>alert(err))
     
     reset();
+    navigate('/'); 
   };
 
   return (

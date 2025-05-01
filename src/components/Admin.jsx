@@ -110,6 +110,7 @@ const Admin = () => {
           credentials: 'include'
         });
         const result = await response.json();
+        console.log(result);
         setData(result);
       } catch (error) {
         console.error('Error fetching data:', error);
@@ -119,7 +120,7 @@ const Admin = () => {
   },[])
   return (
     <div className="p-4 grid gap-6 md:grid-cols-2 lg:grid-cols-3">
-      {data.map((order) => (
+      {data || data.map((order) => (
         <div
           key={order.id}
           className="border border-[#CA9154] rounded-lg p-4 shadow-lg bg-white"
