@@ -43,6 +43,26 @@ function Navbar() {
   
       fetchRole();
     }, []);
+    function handleLogout(){
+      fetch('https://railway-backend-production-08c2.up.railway.app/logout', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'Accept': 'application/json'},
+        credentials: 'include'
+      }).then((res) => {res.json()})
+      .then((res) => {
+        alert(res.message);
+        window.location.reload();
+        
+      }).catch
+      (err => {
+        alert(err);
+      })
+    }
+
+
+
   const [isOpen, setIsOpen] = useState(false);
   const [isHover1,setHover1]=useState(false)
   const [isHover2,setHover2]=useState(false)
@@ -212,7 +232,7 @@ function Navbar() {
                  <h1 className=''><Link to='/user'>User</Link></h1>:''}
                  {
                   role?
-                   <h1 className=''><Link  >Logout account</Link></h1>
+                   <h1 className=''><Link onClick={()=>handleLogout()}  >Logout account</Link></h1>
                    :''
 
                  }
