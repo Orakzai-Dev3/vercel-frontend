@@ -97,7 +97,7 @@ import { useState } from 'react';
 // ];
 
 const Admin = () => {
-  const [data, setData] = useState();
+  const [data, setData] = useState([]);
   useEffect(()=>{
     const fetchData = async () => {
       try {
@@ -120,7 +120,7 @@ const Admin = () => {
   },[])
   return (
     <div className="p-4 grid gap-6 md:grid-cols-2 lg:grid-cols-3">
-      {data || data.map((order) => (
+      {  data.map((order) => (
         <div
           key={order.id}
           className="border border-[#CA9154] rounded-lg p-4 shadow-lg bg-white"
