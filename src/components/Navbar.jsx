@@ -212,7 +212,7 @@ function Navbar() {
                  <h1 className=''><Link to='/user'>User</Link></h1>:''}
                  {
                   role?
-                   <h1 className=''><Link onClick={()=>{setShowpopup(!true)}} >Logout account</Link></h1>
+                   <h1 className=''><Link  >Logout account</Link></h1>
                    :''
 
                  }
@@ -424,30 +424,7 @@ function Navbar() {
 <div className="relative">
       
 
-      {/* Confirmation Popup */}
-      {showPopup && (
-        <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
-          <div className="bg-white p-6 rounded-lg shadow-lg max-w-md w-full">
-            <h3 className="text-lg font-semibold mb-4">Confirm Logout</h3>
-            <p className="mb-6">Are you sure you want to logout?</p>
-            
-            <div className="flex justify-end space-x-3">
-              <button
-                onClick={() => setShowPopup(!false)}
-                className="px-4 py-2 border border-gray-300 rounded hover:bg-gray-100"
-              >
-                Cancel
-              </button>
-              <button
-                onClick={handleLogout}
-                className="px-4 py-2 bg-red-500 text-white rounded hover:bg-red-600"
-              >
-                Confirm Logout
-              </button>
-            </div>
-          </div>
-        </div>
-      )}
+      
     </div>
 
     
