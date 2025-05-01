@@ -34,7 +34,7 @@ function Navbar() {
   
           const data = await response.json();
           setRole(data.role);
-          console.log("your role from nav :",role)
+          
         } catch (err) {
           console.error('Authentication error:', err);
           
@@ -53,7 +53,7 @@ function Navbar() {
       }).then((res) => {res.json()})
       .then((res) => {
         
-        alert(res.message);
+        alert('Logout successful');
         window.location.reload();
         
       }).catch
