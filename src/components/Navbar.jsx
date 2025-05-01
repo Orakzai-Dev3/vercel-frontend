@@ -22,8 +22,8 @@ function Navbar() {
           const response = await fetch('https://railway-backend-production-08c2.up.railway.app/get-role', {
             method: 'GET',
             headers: {
-              "Content-Type": "application/json",
-              
+              'Content-Type': 'application/json',
+              'Accept': 'application/json'
             },
             credentials: 'include'
           });
@@ -34,7 +34,7 @@ function Navbar() {
   
           const data = await response.json();
           setRole(data.role);
-          console.log("your role :",role)
+          console.log("your role from nav :",role)
         } catch (err) {
           console.error('Authentication error:', err);
           
