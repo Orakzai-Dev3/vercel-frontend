@@ -15,7 +15,7 @@ function ProtectedRoute({ children, allowed_role }) {
     
         
         // 3. Then verify with backend
-        const response = await fetch('http://localhost:3000/get-role', {
+        const response = await fetch('https://railway-backend-production-08c2.up.railway.app/get-role', {
           method: 'GET',
           headers: {
             "Content-Type": "application/json",

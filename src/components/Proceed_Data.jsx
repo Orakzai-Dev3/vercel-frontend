@@ -14,7 +14,7 @@ const Proceed_Data = ({ data1 }) => {
         productinfo: data1 // Make sure data1 is properly defined
       };
   console.log(finalData)
-      const response = await fetch('http://localhost:3000/get-order', {
+      const response = await fetch('https://railway-backend-production-08c2.up.railway.app/get-order', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json'

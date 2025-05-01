@@ -19,7 +19,7 @@ function Men_Biker_Jacket() {
       try {
         setLoading(true);
         const response = await fetch(
-          `http://localhost:3000/men/biker_jackets?color=${color}&size=${size}&price=${price}&sort=${sort}`,
+          `https://railway-backend-production-08c2.up.railway.app/men/biker_jackets?color=${color}&size=${size}&price=${price}&sort=${sort}`,
           {
             method: "GET",
             headers: {

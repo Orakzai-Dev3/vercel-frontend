@@ -6,7 +6,7 @@ function User() {
   useEffect(() => {
     const fetchOrder = async () => {
       try {
-        const response = await fetch('http://localhost:3000/get-user-orders', {
+        const response = await fetch('https://railway-backend-production-08c2.up.railway.app/get-user-orders', {
           method: 'GET',
           headers: {
             'Content-Type': 'application/json',

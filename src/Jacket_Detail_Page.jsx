@@ -16,7 +16,7 @@ function Jacket_Detail_Page() {
     useEffect(()=>{
       const fetch_data=async()=>{
         try{
-             const responce = await fetch(`http://localhost:3000/men/product-id?id=${id}`,
+             const responce = await fetch(`https://railway-backend-production-08c2.up.railway.app/men/product-id?id=${id}`,
                 {
                   method:'GET',
                   headers:{

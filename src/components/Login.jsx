@@ -10,7 +10,7 @@ const Login = () => {
   } = useForm();
 
   const onSubmit = (data) => {
-    fetch('http://localhost:3000/login',{
+    fetch('https://railway-backend-production-08c2.up.railway.app/login',{
       method:'POST',
       headers:{
         "Content-Type": "application/json",

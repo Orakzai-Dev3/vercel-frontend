@@ -20,7 +20,7 @@ function Men_Shearling_Jacket() {
         const fetchData = async () => {
           try {
             setLoading(true)
-            const response = await fetch(`http://localhost:3000/men/shearling_jackets?color=${color}&size=${size}&price${price}&sort=${sort}`, {
+            const response = await fetch(`https://railway-backend-production-08c2.up.railway.app/men/shearling_jackets?color=${color}&size=${size}&price${price}&sort=${sort}`, {
               method: "GET",
                 headers: {
                     "Content-Type": "application/json",
