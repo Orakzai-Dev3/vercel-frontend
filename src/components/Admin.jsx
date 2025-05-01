@@ -1,102 +1,122 @@
-import React from 'react';
-
-const data = [
-  {
-    "id": 18,
-    "order_id": 3,
-    "full_name": "abdurrehman",
-    "address": "G 10/2 liaquat square, malir, karachi",
-    "city": "karachi",
-    "state": "sindh",
-    "postal_code": "4444",
-    "country": "Pakistan",
-    "items": [
-      {
-        "id": 9,
-        "order_id": 18,
-        "product_id": 221,
-        "quantity": 1,
-        "price": "49.00",
-        "product_name": "Black Leather Wallet",
-        "image_url": "https://cdn.leatherscin.com/img/variant/large/scin-13324w-black.jpg"
-      }
-    ]
-  },
-  {
-    "id": 19,
-    "order_id": 3,
-    "full_name": "abdurrehman",
-    "address": "G 10/2 liaquat square, malir, karachi",
-    "city": "karachi",
-    "state": "sindh",
-    "postal_code": "4444",
-    "country": "Pakistan",
-    "items": [
-      {
-        "id": 10,
-        "order_id": 19,
-        "product_id": 221,
-        "quantity": 1,
-        "price": "49.00",
-        "product_name": "Black Leather Wallet",
-        "image_url": "https://cdn.leatherscin.com/img/variant/large/scin-13324w-black.jpg"
-      }
-    ]
-  },
-  {
-    "id": 20,
-    "order_id": 3,
-    "full_name": "abdurrehman",
-    "address": "G 10/2 liaquat square, malir, karachi",
-    "city": "karachi",
-    "state": "sindh",
-    "postal_code": "757575",
-    "country": "Pakistan",
-    "items": [
-      {
-        "id": 11,
-        "order_id": 20,
-        "product_id": 161,
-        "quantity": 1,
-        "price": "249.00",
-        "product_name": "SCIN Camel Brown Coat",
-        "image_url": "https://cdn.leatherscin.com/img/variant/large/scin-13157-camelbrown.jpg"
-      }
-    ]
-  },
-  {
-    "id": 21,
-    "order_id": 3,
-    "full_name": "abdurrehman",
-    "address": "G 10/2 liaquat square, malir, karachi",
-    "city": "karachi",
-    "state": "sindh",
-    "postal_code": "4444",
-    "country": "Pakistan",
-    "items": [
-      {
-        "id": 12,
-        "order_id": 21,
-        "product_id": 357,
-        "quantity": 1,
-        "price": "1600.00",
-        "product_name": "Two-Tone Duffle Bag",
-        "image_url": "https://cdn.leatherscin.com/img/variant/large/scin-13229-blackandbrown.jpg"
-      },
-      {
-        "id": 13,
-        "order_id": 21,
-        "product_id": 370,
-        "quantity": 1,
-        "price": "1300.00",
-        "product_name": "Retro Brown Duffle",
-        "image_url": "https://cdn.leatherscin.com/img/variant/large/scin-13230-brown.jpg"
-      }
-    ]
-  }
-];
+import React, { useEffect } from 'react';
+import { useState } from 'react';
+// const data = [
+//   {
+//     "id": 18,
+//     "order_id": 3,
+//     "full_name": "abdurrehman",
+//     "address": "G 10/2 liaquat square, malir, karachi",
+//     "city": "karachi",
+//     "state": "sindh",
+//     "postal_code": "4444",
+//     "country": "Pakistan",
+//     "items": [
+//       {
+//         "id": 9,
+//         "order_id": 18,
+//         "product_id": 221,
+//         "quantity": 1,
+//         "price": "49.00",
+//         "product_name": "Black Leather Wallet",
+//         "image_url": "https://cdn.leatherscin.com/img/variant/large/scin-13324w-black.jpg"
+//       }
+//     ]
+//   },
+//   {
+//     "id": 19,
+//     "order_id": 3,
+//     "full_name": "abdurrehman",
+//     "address": "G 10/2 liaquat square, malir, karachi",
+//     "city": "karachi",
+//     "state": "sindh",
+//     "postal_code": "4444",
+//     "country": "Pakistan",
+//     "items": [
+//       {
+//         "id": 10,
+//         "order_id": 19,
+//         "product_id": 221,
+//         "quantity": 1,
+//         "price": "49.00",
+//         "product_name": "Black Leather Wallet",
+//         "image_url": "https://cdn.leatherscin.com/img/variant/large/scin-13324w-black.jpg"
+//       }
+//     ]
+//   },
+//   {
+//     "id": 20,
+//     "order_id": 3,
+//     "full_name": "abdurrehman",
+//     "address": "G 10/2 liaquat square, malir, karachi",
+//     "city": "karachi",
+//     "state": "sindh",
+//     "postal_code": "757575",
+//     "country": "Pakistan",
+//     "items": [
+//       {
+//         "id": 11,
+//         "order_id": 20,
+//         "product_id": 161,
+//         "quantity": 1,
+//         "price": "249.00",
+//         "product_name": "SCIN Camel Brown Coat",
+//         "image_url": "https://cdn.leatherscin.com/img/variant/large/scin-13157-camelbrown.jpg"
+//       }
+//     ]
+//   },
+//   {
+//     "id": 21,
+//     "order_id": 3,
+//     "full_name": "abdurrehman",
+//     "address": "G 10/2 liaquat square, malir, karachi",
+//     "city": "karachi",
+//     "state": "sindh",
+//     "postal_code": "4444",
+//     "country": "Pakistan",
+//     "items": [
+//       {
+//         "id": 12,
+//         "order_id": 21,
+//         "product_id": 357,
+//         "quantity": 1,
+//         "price": "1600.00",
+//         "product_name": "Two-Tone Duffle Bag",
+//         "image_url": "https://cdn.leatherscin.com/img/variant/large/scin-13229-blackandbrown.jpg"
+//       },
+//       {
+//         "id": 13,
+//         "order_id": 21,
+//         "product_id": 370,
+//         "quantity": 1,
+//         "price": "1300.00",
+//         "product_name": "Retro Brown Duffle",
+//         "image_url": "https://cdn.leatherscin.com/img/variant/large/scin-13230-brown.jpg"
+//       }
+//     ]
+//   }
+// ];
 
 const Admin = () => {
+  const [data, setData] = useState();
+  useEffect(()=>{
+    const fetchData = async () => {
+      try {
+        const response = await fetch('https://railway-backend-production-08c2.up.railway.app/get-user-admin', {
+          method: 'GET',
+          headers: {
+            'Content-Type': 'application/json',
+            'Accept': 'application/json',
+          },
+          credentials: 'include'
+        });
+        const result = await response.json();
+        setData(result);
+      } catch (error) {
+        console.error('Error fetching data:', error);
+      }
+    };
+    fetchData();
+  },[])
   return (
     <div className="p-4 grid gap-6 md:grid-cols-2 lg:grid-cols-3">
       {data.map((order) => (
