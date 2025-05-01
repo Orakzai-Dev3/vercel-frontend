@@ -20,7 +20,7 @@ function Men_Aviator_Jacket() {
         const fetchData = async () => {
 
           try {
-            const response = await fetch(`http://localhost:3000/men/aviator_jackets?color=${color}&size=${size}&price${price}&sort=${sort}`, {
+            const response = await fetch(`https://railway-backend-production-08c2.up.railway.app/men/aviator_jackets?color=${color}&size=${size}&price${price}&sort=${sort}`, {
               method: "GET",
                 headers: {
                     "Content-Type": "application/json",
