@@ -34,7 +34,7 @@ function Navbar() {
   
           const data = await response.json();
           setRole(data.role);
-          console.log(role)
+          console.log("your role :",role)
         } catch (err) {
           console.error('Authentication error:', err);
           
