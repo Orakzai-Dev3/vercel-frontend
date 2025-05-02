@@ -435,7 +435,7 @@ function Navbar() {
         <div className='basis-[25%] pr-1 py-2 flex flex-col gap-1'>
           <Link to='/leather-backpacks'>
             <img src="https://cdn.leatherscin.com/img/variant/large/scin-13263-brown.jpg" alt="New Arrivals" />
-            <h1 className='pt-1 font-semibold text-center text-2xl text-[#522917]'>New Arrivals</h1>
+            <h1 className='pt-1 font-semibold text-center text-2xl text-[#522917]'>Backpacks</h1>
           </Link>
         </div>
       </div>
