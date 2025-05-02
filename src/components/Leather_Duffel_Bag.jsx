@@ -219,6 +219,39 @@ function Leather_Duffel_Bag() {
             </div>
         </div>
     </div>
+    <div class="w-[90vw] mx-auto my-8 p-6 bg-white rounded">
+  <h1 class="text-3xl md:text-4xl font-semibold text-center mb-6 text-[#522917]">
+    Genuine Leather Duffle Bags For Men And Women
+  </h1>
+  
+  <p class="text-base md:text-lg text-center mb-6 text-gray-600 leading-relaxed">
+    Choosing a high-quality duffle bag is key to authenticity, durability, and longevity. SCIN offers you all of this along with classic style and designs. Our leather duffle bags embody the heritage, charm, and hard work that was put into the classic leather bags of the olden times, with the ethical standards and the style of the modern era.
+  </p>
+
+  <p class="text-base md:text-lg text-center mb-6 text-gray-600 leading-relaxed">
+    When the adventurous soul inside you calls out to you and you want to get away for the weekend and embark on a long journey do not forget to carry a leather duffle bag from SCIN. With SCIN you can say goodbye to second-guessing your long trips. Everything you need to carry with you can be effortlessly stored in our spacious bags.
+  </p>
+
+  <p class="text-base md:text-lg text-center mb-6 text-gray-600 leading-relaxed">
+    Our women's and men's leather duffle bags come with multiple compartments and big pockets to safely store all of your belongings. With their tough structure and durable stitching, our bags come with a guarantee of accompanying you on every adventure you set out for. Visit SCIN now and choose a bag from our latest collection of leather duffle bags for your next trip.
+  </p>
+
+  <h2 class="text-2xl md:text-3xl font-semibold text-center mb-4 text-[#522917]">
+    Shop High Quality Leather Duffle Bags For Travel
+  </h2>
+  
+  <p class="text-base md:text-lg text-center mb-6 text-gray-600 leading-relaxed">
+    While for some, leather duffle bags might mean something to store your clothes in for the weekend at camp. For others, it might be a symbol that carries your memories over time as you bring them along on your journey around the world. Whether you need a leather duffle to fulfill its practical needs or the memorabilia, browse our collection at SCIN.
+  </p>
+
+  <p class="text-base md:text-lg text-center mb-6 text-gray-600 leading-relaxed">
+    We have a diverse range of leather travel duffle bags. They come in different styles, designs, sizes, and colors, giving you the liberty to pick out your favorite. Our bags come with an adequate storage option that can cater to your needs. They are lightweight and equipped with heavy-duty zippers to ensure safety.
+  </p>
+
+  <p class="text-base md:text-lg text-center text-gray-600 leading-relaxed">
+    Premium quality leather and exceptional stitching ensure that the bags stay durable for a long time. Moreover, the adjustable shoulder straps allow you to conveniently carry the bag with you when on the go. You can check out our best-selling black leather duffle bag at our shop.
+  </p>
+</div>
     </>
   )
 }

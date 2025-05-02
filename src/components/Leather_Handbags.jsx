@@ -223,6 +223,43 @@ function Leather_Handbags() {
             </div>
         </div>
     </div>
+    <div class="w-[90vw] mx-auto my-8 p-6 bg-white rounded">
+  <h1 class="text-3xl md:text-4xl font-semibold text-center mb-6 text-[#522917]">
+    Shop Leather Handbags in Various Styles
+  </h1>
+  
+  <p class="text-base md:text-lg text-center mb-6 text-gray-600 leading-relaxed">
+    Check out our real soft leather handbags that come to life from the full-grain hides of sheepskin, goatskin and cowhide that you will adore for years. SCIN leather handbags are a true companion in your everyday life. Available in an array of colors and various designs ranging from vintage to contemporary designs, you will find the perfect leather handbag that will suit your preferences that matches your skin tone and with any casual attire you wear.
+  </p>
+
+  <p class="text-base md:text-lg text-center mb-6 text-gray-600 leading-relaxed">
+    Our leather handbags for women symbolizes luxury, style and sophistication. So, pick your ideal full grain leather bag and show richness and boldness to the viewers. Enjoy your new everyday handbag!!
+  </p>
+
+  <h2 class="text-2xl md:text-3xl font-semibold text-center mb-4 text-[#522917]">
+    Leather Handbags for Women – A Stylish Accessory
+  </h2>
+  
+  <p class="text-base md:text-lg text-center mb-6 text-gray-600 leading-relaxed">
+    SCIN offers the most luxurious collection of women's leather handbags – made with 100% real leather. The real leather ages beautifully, providing each bag with a touch of luxury and durability, and transforming each leather handbag into a lasting investment in your personal style.
+  </p>
+
+  <p class="text-base md:text-lg text-center mb-6 text-gray-600 leading-relaxed">
+    The collection stocks a broad spectrum of styles, sizes, and colors of the best leather handbags. Whether you are looking for a real leather tote bag or a beautiful leather purse, you will find your favorite and preferred leather handbag at SCIN. Shop now and let our luxurious high quality leather handbags become a unique expression of your individuality.
+  </p>
+
+  <h2 class="text-2xl md:text-3xl font-semibold text-center mb-4 text-[#522917]">
+    Best Leather Handbags – Aesthetic and Durable
+  </h2>
+  
+  <p class="text-base md:text-lg text-center mb-6 text-gray-600 leading-relaxed">
+    Shop a unique and aesthetic leather handbag from SCIN and add into your bags collection. Our full grain leather handbags designed with luxury and usefulness. All our leather hand bags have practical features such as multiple compartments, secure closures, and adjustable straps—a versatile and practical choice.
+  </p>
+
+  <p class="text-base md:text-lg text-center text-gray-600 leading-relaxed">
+    Whether you are a trendsetter, a classic enthusiast, or someone who appreciates a blend of both, at SCIN we make sure that we stock a collection of the best hand bags tailored to your preferences. Explore the classic styles and shades such as brown and black leather handbags, that matches with every outfit from SCIN. Own a handbag that shows eternal grace with SCIN!
+  </p>
+</div>
     </>
   )
 }

@@ -221,6 +221,43 @@ function Leather_passport_holder() {
             </div>
         </div>
     </div>
+    <div class="w-[90vw] mx-auto my-8 p-6 bg-white rounded">
+  <h1 class="text-3xl md:text-4xl font-semibold text-center mb-6 text-[#522917]">
+    Shop Leather Passport Holders – Travel in Style
+  </h1>
+  
+  <p class="text-base md:text-lg text-center mb-6 text-gray-600 leading-relaxed">
+    Hold your passport made of real leather materials from professional hands with the perfect finishing touch called leather passport holders and travel in style. Our leather passport cover is meant to keep your travel documents safe and secure. Our passport cover leather is available in a beautiful range of colors and sizes, from classic red real leather tickets holder passports to mocha color real cowhide leather lightweight passport holders, wallets and cases; all our luxury leather passport holder is designed for the seasoned tourist exudes class and sophistication while giving protection to your passport.
+  </p>
+
+  <p class="text-base md:text-lg text-center mb-6 text-gray-600 leading-relaxed">
+    At SCIN, besides using real leather, our leather passport holder for men are delicate and soft with support details, light and portable, not easy to detach. Browse all our men's leather passport holder and a leather corporate gifts and place your order to travel with no worries right away!
+  </p>
+
+  <h2 class="text-2xl md:text-3xl font-semibold text-center mb-4 text-[#522917]">
+    Premium Leather Passport Covers
+  </h2>
+  
+  <p class="text-base md:text-lg text-center mb-6 text-gray-600 leading-relaxed">
+    Redefine your travel accessories with SCIN's real leather passport holder. They are more than just accessories; they are a tough and durable companion in your journey. Made of 100% real leather, adding a touch of luxury to your travel, SCIN's leather monogrammed passport holder gives convenience with grace. Our skilled leather artisans craft them with passion, bringing you sleek and fancy designs with perfection.
+  </p>
+
+  <p class="text-base md:text-lg text-center mb-6 text-gray-600 leading-relaxed">
+    With a spectrum of colors to choose from, find the perfect women's passport holder that aligns with your taste and complements your travel persona. Order now our passport holders and a leather portfolios and enjoy your travel in style!
+  </p>
+
+  <h2 class="text-2xl md:text-3xl font-semibold text-center mb-4 text-[#522917]">
+    Find Your Perfect Customized Passport Holder
+  </h2>
+  
+  <p class="text-base md:text-lg text-center mb-6 text-gray-600 leading-relaxed">
+    When you travel, you always fear losing your passport or getting damaged, and you want to avoid chaotic or overfilled travel bags. Here comes our customized cool passport holder, which, apart from providing extra safety against damage and theft, allows you to travel gracefully. SCIN puts the toughest and most durable customized brown leather passport holder before you to make your traveling journey easy.
+  </p>
+
+  <p class="text-base md:text-lg text-center text-gray-600 leading-relaxed">
+    At SCIN, we allow you to personalize your women's leather passport holder with initials or monogram to give it a unique flair. Our black leather passport holder can cover extra pockets to hold credit/debit cards, IDs, and business and personal documents. Buying our real leather-made cool passport holder allows you to speed up a time-consuming action by putting those items in a single place and giving peacefulness, knowing they're all safe. Shop the most powerful customized passport holder and a leather wallet from SCIN now.
+  </p>
+</div>
     </>
   )
 }

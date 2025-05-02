@@ -217,6 +217,31 @@ function Corporate_gift() {
             </div>
         </div>
     </div>
+    <div class="w-[90vw] mx-auto my-8 p-6 bg-white rounded">
+  <h1 class="text-3xl md:text-4xl font-semibold text-center mb-6 text-[#522917]">
+    Leather Corporate Gifts For Your Business
+  </h1>
+  
+  <p class="text-base md:text-lg text-center mb-6 text-gray-600 leading-relaxed">
+    SCIN brings you a huge collection of extraordinary leather corporate gifts, designed to create a lasting and remarkable impression. With being functional and relatable, SCIN's unique leather gifts easily integrate into your routine life. Whether you want to acknowledge the hard work of your dedicated employees, expand the offerings for your retail store, or offer them as giveaways to your clients from SCIN corporate leather gifts, we have plenty of options for you that suit your particular requirements. Immerse yourself in the art of personalized leather corporate gifting by customizing your leather office accessories with your brand's logo. Shop now and initiate an impactful branding campaign with SCIN's luxurious and unique leather business gifts.
+  </p>
+
+  <h2 class="text-2xl md:text-3xl font-semibold text-center mb-4 text-[#522917]">
+    Classic and Unique Leather Gifts
+  </h2>
+  
+  <p class="text-base md:text-lg text-center mb-6 text-gray-600 leading-relaxed">
+    Surprise and delight your employees and customers with our real corporate leather gifts. Made with classic and alluring designs, our premium leather business gifts are designed to infuse a unique touch into your gestures. You will find a variety of leather products in our collection of leather corporate gifting, including leather portfolios, leather passport holders, leather wallets and more. Each of SCIN's leather corporate gifting merchandises have been meticulously crafted with precision and passion, making sure that each corporate gifts leather reflects your brand's identity and speak volumes about your commitment to providing extraordinary leather products. Order now the leather gift for women and take your corporate gifting experience to new ups.
+  </p>
+
+  <h2 class="text-2xl md:text-3xl font-semibold text-center mb-4 text-[#522917]">
+    Leather Corporate Gift and Timeless Styles
+  </h2>
+  
+  <p class="text-base md:text-lg text-center text-gray-600 leading-relaxed">
+    Shop at SCIN's exquisite collection of leather corporate gifts. Designed with a touch of luxury, our handy and stylish corporate leather gifts will last for years to come. Find a range of classic designs and sophisticated shades of gifting items from our collection of stunning womens leather gifts, with each being a symbol of beauty and creativity. At SCIN, we believe in keeping luxury accessible for all, therefore we keep our real and unique leather gifts at half the price of other brands. Browse the collection of our most affordable leather business gifts and choose from the endless leather gift ideas that SCIN has in store for you!
+  </p>
+</div>
     </>
   )
 }

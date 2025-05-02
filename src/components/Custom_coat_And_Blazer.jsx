@@ -216,6 +216,31 @@ function  Custom_coat_And_Blazer() {
             </div>
         </div>
     </div>
+    <div class="w-[90vw] mx-auto my-8 p-6 bg-white rounded">
+  <h1 class="text-3xl md:text-4xl font-semibold text-center mb-6 text-[#522917]">
+    Shop Real Leather Coats & Blazers
+  </h1>
+  
+  <p class="text-base md:text-lg text-center mb-6 text-gray-600 leading-relaxed">
+    SCIN has a wide assortment of leather coats and blazers in a range of eclectic designs and spectrum of colors. The collection is specifically designed for modern men and women who prefer luxury, timeless style and rugged sophistication in their clothing. From subtle elegance to eye-catching material details, each leather coat and blazer serves as a captivating wardrobe staple. Stay at the edge of trend with the functionality, design and aesthetics that they feature, and experience an unmatched blend of craftsmanship, quality and contemporary flair. Shop now at SCIN to enjoy the soft, luxurious feel of real leather in the lowest prices, and turn the heads wherever you go!
+  </p>
+
+  <h2 class="text-2xl md:text-3xl font-semibold text-center mb-4 text-[#522917]">
+    Shop Leather Coats and Blazers at SCIN in Your Favorite Colors
+  </h2>
+  
+  <p class="text-base md:text-lg text-center mb-6 text-gray-600 leading-relaxed">
+    Get rid of the boring colors in your wardrobe. SCIN has brought leather coats and blazers in a range of appealing colors to suit your preferences. From the black and brown leather coats with a distressed finish for a vintage look to the blue and green leather blazers for a classic, dapper look, you will find a variety of options. Each of them features luxury and timelessness, providing you with exceptional choices for semi-formal and smart outfits. Choose your favorite colors from our coats and blazers collection, and let your style speak volumes with a personalized touch that reflects your unique taste and individuality.
+  </p>
+
+  <h2 class="text-2xl md:text-3xl font-semibold text-center mb-4 text-[#522917]">
+    SCIN's Leather Coats and Blazers - Where Classic Meets Contemporary!
+  </h2>
+  
+  <p class="text-base md:text-lg text-center text-gray-600 leading-relaxed">
+    The leather coats and blazers by SCIN are the perfect blend of classic and contemporary looks. SCIN uses 100% real sheepskin and cowhide leather, as both materials are flexible and durable and offers a luxury touch to the garments. Due to the presence of real full-grain leather, our coats and blazers also serve to be your true life-long companions, given the mandatory maintenance and care. By addressing the basic conditioning needs, you can rest assured that the texture and look of the jacket remain unwrinkled and smooth. So, explore the collection, and place your orders for these stunning pieces now!
+  </p>
+</div>
     </>
   )
 }

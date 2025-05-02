@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import { useParams } from 'react-router-dom'
+import { useParams ,Link} from 'react-router-dom'
 import { useDispatch, useSelector } from 'react-redux';
 import { 
   removeItemFromCart, 
@@ -60,8 +60,9 @@ function Jacket_Detail_Page() {
           <h1 className='text-3xl py-5 gap-4 text-[#522917] font-semibold tracking-tighter leading-tight'>
           {data.Name}
           </h1>
-          <h1 className='flex  justify-end'>
+          <h1 className='flex  justify-end'><Link to='/scin'>
             <img className='w-[70%]' src="https://cdn.leatherscin.com/img/manufacturer/icon/scin.png" alt="" />
+          </Link>
           </h1>
 
         </div>

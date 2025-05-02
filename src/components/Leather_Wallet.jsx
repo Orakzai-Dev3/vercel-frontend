@@ -217,6 +217,31 @@ function Men_Shearling_Jacket() {
             </div>
         </div>
     </div>
+    <div class="w-[90vw] mx-auto my-8 p-6 bg-white rounded">
+  <h1 class="text-3xl md:text-4xl font-semibold text-center mb-6 text-[#522917]">
+    Shop the Best Collection of Real Leather Wallets
+  </h1>
+  
+  <p class="text-base md:text-lg text-center mb-6 text-gray-600 leading-relaxed">
+    Transform your daily essentials into a style statement with SCIN's exquisite collection of leather wallets. Crafted with high-quality, full-grain leather, these leather wallets perfectly blends fashion and functionality. Available in various styles, ranging from classic bi-fold and tri-fold designs to contemporary and minimalist options, SCIN's real leather wallets are designed to suit all personal styles and preferences. You will find them at SCIN in multiple colors from versatile black and brown to statement-making blue and bold red, providing you with an array of options to choose from. Browse the collection, and place your orders right away for these stylish leather wallets that will stand the test of time.
+  </p>
+
+  <h2 class="text-2xl md:text-3xl font-semibold text-center mb-4 text-[#522917]">
+    Leather Wallets and Coin Holders – Classic yet Modern
+  </h2>
+  
+  <p class="text-base md:text-lg text-center mb-6 text-gray-600 leading-relaxed">
+    Experience style and convenience together with SCIN's leather coin holders and leather wallets. These pocket-friendly leather wallets are crafted with expert craftsmanship and stylish designs, making them an excellent choice for fashion-conscious individuals. Whether you prefer a classic, minimalist charm of slim and small leather coin purse or prefer the versatility of multi-compartment wallets, our selection assures a perfect accessory for your unique style. Each accessory is crafted with real leather sourced from sheepskin, goatskin and cowhide, resulting in a sumptuous texture and unparalleled durability. Explore the chic simplicity of our collection, where convenience meets style and tradition meets modernity in your everyday carry!
+  </p>
+
+  <h2 class="text-2xl md:text-3xl font-semibold text-center mb-4 text-[#522917]">
+    Luxurious Leather Card Wallets that Redefine Your Style
+  </h2>
+  
+  <p class="text-base md:text-lg text-center text-gray-600 leading-relaxed">
+    SCIN brings you a luxurious collection of real leather wallets that are crafted to perfection. These wallets are more than just accessories; they are a statement of refinement and precision. Whether you want to gift them to your loved ones customized with their name or message, or as a token of appreciation to your valuable employee, SCIN's leather wallets are the perfect choice. Each wallet is designed with attention to detail and caters to diverse needs, offering pocket-friendly leather pieces for keeping your cards and other essentials organized. SCIN makes sure that every wallet embodies the highest standards of quality, providing you with both elegance and practicality at the best prices. Order now!
+  </p>
+</div>
     </>
   )
 }

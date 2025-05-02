@@ -218,6 +218,39 @@ function Leather_Portfolios() {
             </div>
         </div>
     </div>
+    <div class="w-[90vw] mx-auto my-8 p-6 bg-white rounded">
+  <h1 class="text-3xl md:text-4xl font-semibold text-center mb-6 text-[#522917]">
+    Leather Portfolios In Various Colors
+  </h1>
+  
+  <p class="text-base md:text-lg text-center mb-6 text-gray-600 leading-relaxed">
+    Get the real leather-portfolios available in various colors at SCIN from black and dark coffee brown to classic tobacco, russet and navy blue colors, we have the best color shades leather portfolios for you. You just can't go off beam with any of these colors as they're all encourage a sophisticated and professional look. Either to hold business cards, private documents or a credit/debit cards, notepad or legal pad, organize all your office or business related paper stuff in the best priced leather business portfolio.
+  </p>
+
+  <p class="text-base md:text-lg text-center mb-6 text-gray-600 leading-relaxed">
+    SCIN handmade portfolio leather are made of highest-grade leather and are guaranteed to be workable for life. Also, our leather portfolio case come with some tech storage features to put classic pen, paper, tablets, phones or calculator to carry any modern professional gear. Our leather portfolios collection gets inspiration from some of history's great thinkers offers heritage-quality construction to fit your shape and colors preference and any professional stuff-carrying needs. Get our tough and water-resistant personalized leather portfolio or a leather passport holder available in multiple colors now!
+  </p>
+
+  <h2 class="text-2xl md:text-3xl font-semibold text-center mb-4 text-[#522917]">
+    Leather Portfolios – Stylish and Durable
+  </h2>
+  
+  <p class="text-base md:text-lg text-center mb-6 text-gray-600 leading-relaxed">
+    Get yourself a stylish work accessory – SCIN's custom leather portfolio. Whether you're travelling for business, going to an interview, or starting a new job, our leather business portfolio is everything you need. Helping you to keep your work accessories organized in style and within easy reach, SCIN's leather portfolio case make sure you always look your best on the go. The real leather gives the padfolio leather a durable and luxurious look, while the multiple pockets provide ample space for storage. Shop these leather business portfolio cases or a leather wallets at SCIN now and store your essential documents with convenience.
+  </p>
+
+  <h2 class="text-2xl md:text-3xl font-semibold text-center mb-4 text-[#522917]">
+    Leather Portfolio Cases – Made with Real Leather
+  </h2>
+  
+  <p class="text-base md:text-lg text-center mb-6 text-gray-600 leading-relaxed">
+    SCIN knows the hurdle people face in maintaining all the crucial documents and work essentials and need something to neatly organized these stiff and can be accessible within arm's reach. That's why we've curated a collection of real leather portfolios offers an exact solution wherever you are. At SCIN, all our leather padfolio or portfolio cases come in different unique shapes and colors from six card slots leather portfolio and distressed brown USB holder portfolio to exterior back panel pocket portfolio and unisex five card slots vintage brown portfolio, choices are plenty.
+  </p>
+
+  <p class="text-base md:text-lg text-center text-gray-600 leading-relaxed">
+    Choose your own favorite color and design or personalize your leather business portfolio to get what you want. Keep your professional and personal stuff well-organized in handy tool called leather portfolio case. The magic of a full-grain leather used in our leather notebook portfolio is assuring that your professional or personal small belonging can be 100% safe and secure and neatly ordered. Order your preferred portfolio or a Leather Backpacks For Men and Women now!
+  </p>
+</div>
     </>
   )
 }

@@ -219,6 +219,31 @@ function Men_Bomber_Jacket() {
             </div>
         </div>
     </div>
+    <div class="w-[90vw] mx-auto my-8 p-6 bg-white rounded">
+  <h1 class="text-3xl md:text-4xl font-semibold text-center mb-6 text-[#522917]">
+    Shop the Best Leather Bomber Jacket Men's
+  </h1>
+  
+  <p class="text-base md:text-lg text-center mb-6 text-gray-600 leading-relaxed">
+    Make a confident and bold fashion-statement with the best leather jackets. Get the ultimate combination of style and durability from our exclusive collection of men's leather bomber jackets. Elegantly designed and crafted from high quality leather, each jacket gives off a rugged yet chic look. It goes effortlessly with any outfit. These leather bomber jackets are for the modern man who seeks both fashion and adventure. Our men's leather bomber jackets are not just outerwear, they are a necessary lifestyle choice. Our leather jackets offer the ideal balance between fashion-forward charm and rugged elegance.
+  </p>
+
+  <h2 class="text-2xl md:text-3xl font-semibold text-center mb-4 text-[#522917]">
+    Top Men's Leather Bomber Jackets - Perfect for Any Season
+  </h2>
+  
+  <p class="text-base md:text-lg text-center mb-6 text-gray-600 leading-relaxed">
+    At SCIN, we believe that men's leather bomber jackets must be a classic wardrobe piece. It should complement your bold, confident personality, and unique style. Our leather jackets are perfect for and can be styled in every season. Men's leather bomber jacket is the ultimate combination of classic appeal and modern versatility, ideal for any time of the year. It could be a chilly winter or mild autumn; these leather jackets provide the perfect warmth and style. Layer it over sweaters or hoodies for a cozy style.
+  </p>
+
+  <h2 class="text-2xl md:text-3xl font-semibold text-center mb-4 text-[#522917]">
+    Discover a Range of Men's Leather Bomber Jackets in Different Colours
+  </h2>
+  
+  <p class="text-base md:text-lg text-center text-gray-600 leading-relaxed">
+    Get a hold of our diverse selection of leather bomber jackets for men in a variety of colors. Neutral colors in leather jackets like black and brown are always the most popular choices, SCIN offers men's and women's leather bomber jackets in a wide spectrum of colors. Our exclusive collection of custom leather bomber jackets is on display in a variety of stunning hues. These leather jackets are ideal for those who want to express personal style, look trendy, and also maintain a rugged, edgy look. From navy and deep burgundy to charcoal and striking olive, our men's leather bomber jackets are designed to register a bold statement.
+  </p>
+</div>
     </>
   )
 }

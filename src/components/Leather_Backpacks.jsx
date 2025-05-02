@@ -223,6 +223,35 @@ function Leather_Backpacks() {
             </div>
         </div>
     </div>
+    <div class="w-[90vw] mx-auto my-8 p-6 bg-white rounded">
+  <h1 class="text-3xl md:text-4xl font-semibold text-center mb-6 text-[#522917]">
+    Genuine Leather Backpacks for Men and Women
+  </h1>
+  
+  <p class="text-base md:text-lg text-center mb-6 text-gray-600 leading-relaxed">
+    Genuine leather backpacks are built for both men and women. Made with attention to detail, rivets, burnishing of the top grain leather and a distinct look, SCIN leather backpacks are one of a kind. We are honored to recreate the designs that bring the pages of history back to life. All of our backpacks represent their rich history and are an inspiration from the military leather bags. At SCIN you will find a range of bags from canvas and leather backpacks to rucksacks.
+  </p>
+
+  <p class="text-base md:text-lg text-center mb-6 text-gray-600 leading-relaxed">
+    We have a diverse range of products for our customers. Each of which is designed, pouring in all our love and expertise. Our designers and craftsmen at SCIN ensure that each leather backpack that leaves the doors of our workshop is bound to win hearts. With exceptional quality leather and unmatched craftsmanship, leather backpacks for women and men, guarantee you a worthwhile purchase.
+  </p>
+
+  <p class="text-base md:text-lg text-center mb-6 text-gray-600 leading-relaxed">
+    Our promise of delivering our best to our customers stay true throughout the years. With exceptional quality, design and customer care SCIN has made sure to leave its customers satisfied. Shop the best leather bags from SCIN now!
+  </p>
+
+  <h2 class="text-2xl md:text-3xl font-semibold text-center mb-4 text-[#522917]">
+    High Quality Leather Backpacks Collection
+  </h2>
+  
+  <p class="text-base md:text-lg text-center mb-6 text-gray-600 leading-relaxed">
+    Whether you are an adventure junkie who loves to travel a lot, a parent who goes out camping with his kids, or a person who needs a leather backpack to carry all of their stuff. SCIN has got a lot to offer you. We have a range of leather products in diverse colors, styles, and designs all under one roof. We get you the best of the best at unbeatable prices.
+  </p>
+
+  <p class="text-base md:text-lg text-center text-gray-600 leading-relaxed">
+    Leather bags at SCIN are made from top-notch leather with heavy-duty zippers and exceptional designs and craftsmanship. Our bags come with spacious compartments and multiple pockets that allow you plenty of space to arrange and store your belongings neatly. With our unique, stylish, and lightweight bags you can carry your home around with you and travel the world! Shop at SCIN now, for the best black leather backpacks for men and women.
+  </p>
+</div>
     </>
   )
 }
